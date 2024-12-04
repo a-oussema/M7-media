@@ -100,7 +100,7 @@ const ceos = [
     name: "S.Ahmed",
     title: "Co-Founder & COO",
     bio: "S.Ahmed specializes in operations and ensuring seamless integration of processes across all departments have over 5 yeaes of experience.",
-    photo: "https://media-pmo1-1.cdn.whatsapp.net/v/t61.24694-24/413635067_1156904978872096_6827170325202714975_n.jpg?ccb=11-4&oh=01_Q5AaIBJnT76CurP49DHA1zS2Z1EV0gcaz9BPDidIAHiPdyvy&oe=67559A88&_nc_sid=5e03e0&_nc_cat=107",
+    photo: "https://scontent.fblj1-2.fna.fbcdn.net/v/t39.30808-6/291867751_1695596404127175_7444971540837050566_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEAlWaBAChLTErxaHMm8akBPBu8Xx47G5w8G7xfHjsbnFEGqUALZlMRWqWPZT3FXilqJDc_1ViMOXHACrVEMMl4&_nc_ohc=zviiM9FSFr8Q7kNvgHVFTzx&_nc_zt=23&_nc_ht=scontent.fblj1-2.fna&_nc_gid=AsIMEYT61xrj6XRio40oTAN&oh=00_AYBuFUMTC4WYOPLnECLJYfMb404HMqheaYp09Nk706yMZg&oe=6755F694",
   },
   
 ];
