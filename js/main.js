@@ -94,13 +94,13 @@ const ceos = [
     name: "A.Oussema",
     title: "Founder & CEO",
     bio: "A.Oussema has over 4 years of experience in leading teams and driving innovation in the tec industry",
-    photo: "https://scontent.fblj1-2.fna.fbcdn.net/v/t39.30808-6/291867751_1695596404127175_7444971540837050566_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=ZdGzTjWDl0EQ7kNvgFWb-Y2&_nc_zt=23&_nc_ht=scontent.fblj1-2.fna&_nc_gid=AZN8jd1tCC3wtQOb6xmEm0f&oh=00_AYCHm7PpGCaHCgm3pIJToXPMNNTzhdkl2r90BHEAqmY1Rw&oe=674E7E14",
+    photo: "https://scontent.fblj1-2.fna.fbcdn.net/v/t39.30808-6/291867751_1695596404127175_7444971540837050566_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEAlWaBAChLTErxaHMm8akBPBu8Xx47G5w8G7xfHjsbnFEGqUALZlMRWqWPZT3FXilqJDc_1ViMOXHACrVEMMl4&_nc_ohc=zviiM9FSFr8Q7kNvgHVFTzx&_nc_zt=23&_nc_ht=scontent.fblj1-2.fna&_nc_gid=AsIMEYT61xrj6XRio40oTAN&oh=00_AYBuFUMTC4WYOPLnECLJYfMb404HMqheaYp09Nk706yMZg&oe=6755F694",
   },
   {
     name: "S.Ahmed",
     title: "Co-Founder & COO",
     bio: "S.Ahmed specializes in operations and ensuring seamless integration of processes across all departments have over 5 yeaes of experience.",
-    photo: "https://scontent.fblj1-2.fna.fbcdn.net/v/t39.30808-6/291867751_1695596404127175_7444971540837050566_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEAlWaBAChLTErxaHMm8akBPBu8Xx47G5w8G7xfHjsbnFEGqUALZlMRWqWPZT3FXilqJDc_1ViMOXHACrVEMMl4&_nc_ohc=zviiM9FSFr8Q7kNvgHVFTzx&_nc_zt=23&_nc_ht=scontent.fblj1-2.fna&_nc_gid=AsIMEYT61xrj6XRio40oTAN&oh=00_AYBuFUMTC4WYOPLnECLJYfMb404HMqheaYp09Nk706yMZg&oe=6755F694",
+    photo: "https://media-mrs2-3.cdn.whatsapp.net/v/t61.24694-24/413635067_1156904978872096_6827170325202714975_n.jpg?ccb=11-4&oh=01_Q5AaIEwOolwaj8drOZJcmh7t7vde-tCYd_VGpEpXGvwp30Sd&oe=675D4B48&_nc_sid=5e03e0&_nc_cat=107",
   },
   
 ];
